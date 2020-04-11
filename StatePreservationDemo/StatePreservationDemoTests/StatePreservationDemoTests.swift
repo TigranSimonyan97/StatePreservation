@@ -1,15 +1,15 @@
 //
-//  StatePreservationTests.swift
-//  StatePreservationTests
+//  StatePreservationDemoTests.swift
+//  StatePreservationDemoTests
 //
 //  Created by Tigran Simonyan on 4/11/20.
 //  Copyright © 2020 Scriptomania. All rights reserved.
 //
 
 import XCTest
-@testable import StatePreservation
+@testable import StatePreservationDemo
 
-class StatePreservationTests: XCTestCase {
+class StatePreservationDemoTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
